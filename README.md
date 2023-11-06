@@ -16,6 +16,7 @@ You can login as
 ## Admin
 ![Screenshot (114)](https://user-images.githubusercontent.com/87234416/132810971-3ba8ab96-d45e-4744-80c7-9aae2ea5ddff.png)
 ![Screenshot (115)](https://user-images.githubusercontent.com/87234416/132810991-88a8caf3-af8b-48df-b527-7f02f4ccfb52.png)
+![Screenshot 2023-11-06 194617](https://github.com/abdullahAl-Houssein/HospitalManagementSystem-Reactjs/assets/93677750/46efb4f3-af4f-466a-b22f-568074e7c699)
 
 admin can create edit delete staff and doctors
 ## staff
