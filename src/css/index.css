@@ -1,0 +1,11 @@
+
+.titleAdd {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 5rem;
+  text-align: center;
+  color: rgba(46, 46, 46, 0.8);
+  font-size: 1.5rem;
+  font-family: sans-serif;
+}

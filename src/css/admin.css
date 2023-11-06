@@ -1,0 +1,85 @@
+.titleAdd {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	margin-top: 5rem;
+	text-align: center;
+	color: rgba(82, 82, 82, 0.7);
+}
+
+
+.icon-1{
+   position: relative !important;
+   padding-bottom: 25px !important;
+   left: 0% !important;
+   width: 24% !important;
+   text-align: center;
+}
+.icon-3{
+   
+   padding-bottom: 25px !important;
+   position: relative !important;
+   width: 25% !important;
+   text-align: center;
+   
+}
+.icon-1:hover ,.icon-2:hover,.icon-3:hover,.icon-4:hover{
+   
+   padding-bottom: 25px !important;
+
+
+}
+.icon-2{
+   padding-bottom: 25px !important;
+   position:relative !important;
+   width: 25% !important;
+   text-align: center;
+
+}
+.icon-4 {
+   padding-bottom: 25px !important;
+   position: relative !important;
+   width: 25% !important;
+   text-align: center;
+   
+}
+.sideNav {
+	height: 91vh;
+	position: fixed;
+	width: 15%;
+	margin-left: 5px;
+	border-radius: 10px;
+	top: 8vh;
+	background-color: #8170c1;
+}
+.ant-menu {
+   position: relative;
+   width: 99%;
+   border-radius: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   top: 5px !important;
+   box-shadow: 0px 20px 140px 0px rgba(0, 0, 0, 0.2)  !important;
+}
+
+.doctorAdd {
+	position: relative;
+	/* width: 85%; */
+	/* float: right; */
+}
+.doc-form {
+   position: relative;
+	margin-top: 10%;
+	 width: 50%; 
+
+	margin-left: auto !important;
+   
+	margin-right: auto !important;
+}
+.add-doc-sidenav {
+	color: white;
+	font-size: 1rem;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+   border-radius: 20px !important;
+}

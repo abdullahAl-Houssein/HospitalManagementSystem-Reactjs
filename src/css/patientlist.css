@@ -1,0 +1,17 @@
+.card2 {
+   position:relative !important;
+   width: 90vw !important;
+   margin-left: auto;
+   margin-right: auto;
+}
+.patient-card {
+   width: 100%
+}
+.card-ftr {
+	display: flex;
+	justify-content: flex-end;
+	height: 40px;
+	align-items: center;
+
+	
+}

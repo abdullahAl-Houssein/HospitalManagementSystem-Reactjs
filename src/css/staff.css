@@ -1,0 +1,28 @@
+.ant-input-affix-wrapper {
+   position: relative;
+   width: 50% !important;
+   left: 50% !important;
+   border-radius: 30px;
+   margin-top: 1rem;
+   transform: translateX(-50%) !important;
+   box-shadow: 1px 1px 1px  rgba(0, 0, 0, 0.2);
+   border: none;
+}
+
+body {
+   background-color: #EBEBEB;
+}
+
+.icon-1s {
+   padding-bottom: 25px !important;
+   position:relative !important;
+   width: 49% !important;
+   text-align: center;
+
+}.icon-2s {
+   padding-bottom: 25px !important;
+   position:relative !important;
+   width: 50% !important;
+   text-align: center;
+
+}
